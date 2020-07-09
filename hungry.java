@@ -6,6 +6,7 @@ public class hungry {
 	System.out.println("pizza");
 	System.out.println("burger");
 	System.out.println("roles");
+	System.out.println("fries");
 	
 	}
 
