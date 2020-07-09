@@ -6,7 +6,8 @@ public class hungrydup {
 	System.out.println("pizza");
 	System.out.println("burger");
 	System.out.println("roles");
-	System.out.println("fries");
+	System.out.println("water");
+	System.out.println("soda");
 	
 	}
 
